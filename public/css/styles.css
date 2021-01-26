@@ -59,6 +59,27 @@ h2 {
   cursor: pointer;
 }
 
+.header__qualifications {
+  font-size: 1.75rem;
+  margin-right: 10px;
+  margin-left: 10px;
+  padding: 5px;
+}
+
+.header__portfolio {
+  font-size: 1.75rem;
+  margin-right: 10px;
+  margin-left: 10px;
+  padding: 5px;
+}
+
+.header__service {
+  font-size: 1.75rem;
+  margin-right: 10px;
+  margin-left: 10px;
+  padding: 5px;
+}
+
 .header a {
   color: #fff;
 }

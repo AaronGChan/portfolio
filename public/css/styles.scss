@@ -21,6 +21,7 @@ h2{font-size: 1.6rem;}
         margin-left: 150px;
         padding: 5px;
     }
+
     &__about{
         font-size: 1.75rem;
         margin-right: 10px;
@@ -44,6 +45,24 @@ h2{font-size: 1.6rem;}
             border: none;
             cursor: pointer;
         }
+    }
+    &__qualifications{
+      font-size: 1.75rem;
+      margin-right: 10px;
+      margin-left: 10px;
+      padding: 5px;
+    }
+    &__portfolio{
+      font-size: 1.75rem;
+      margin-right: 10px;
+      margin-left: 10px;
+      padding: 5px;
+    }
+    &__service{
+      font-size: 1.75rem;
+      margin-right: 10px;
+      margin-left: 10px;
+      padding: 5px;
     }
 }
 .header a{
