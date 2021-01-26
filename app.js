@@ -11,7 +11,8 @@ app.set('view engine', 'ejs')
 
 
 const home = require('./src/routes/home')
-
+const qualifications = require('./src/routes/qualifications')
 app.use('/', home)
+app.use('/qualifications', qualifications)
 
 app.listen(port, () => console.log(`Listening on port ${port}`))
